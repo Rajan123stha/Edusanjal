@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Edusanjal/static/css/main.d1d66931.css",
+    "main.js": "/Edusanjal/static/js/main.e1999903.js",
+    "static/js/787.a7a592a4.chunk.js": "/Edusanjal/static/js/787.a7a592a4.chunk.js",
+    "static/media/Kathford.jpg": "/Edusanjal/static/media/Kathford.c6b28335758da068d416.jpg",
+    "static/media/PadmaShree.jpg": "/Edusanjal/static/media/PadmaShree.c861ca3f061cebd5c837.jpg",
+    "static/media/kathfordLogo.png": "/Edusanjal/static/media/kathfordLogo.15b08341d15279760342.png",
+    "index.html": "/Edusanjal/index.html",
+    "main.d1d66931.css.map": "/Edusanjal/static/css/main.d1d66931.css.map",
+    "main.e1999903.js.map": "/Edusanjal/static/js/main.e1999903.js.map",
+    "787.a7a592a4.chunk.js.map": "/Edusanjal/static/js/787.a7a592a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d66931.css",
+    "static/js/main.e1999903.js"
+  ]
+}
